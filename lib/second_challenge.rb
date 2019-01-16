@@ -38,7 +38,7 @@ def second_challenge
         :name => "Juliet",
         :age => "15"
       },
-      :hero_friends = [
+      :heroine_friends = [
         {
           :name => "Steven",
           :age => "30",
@@ -50,5 +50,6 @@ def second_challenge
           :attitude => "worried"
         }
         ]
+        }
         }
 end
