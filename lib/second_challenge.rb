@@ -9,6 +9,11 @@ def second_challenge
         :name => "Lady Montague",
         :age => "54"
       },
+      :hero => "Romeo",
+      :age => "15"
+      },
+      :hero_friends =>
+    
     },
     :capulet => {
       :patriarch => {
