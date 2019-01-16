@@ -50,6 +50,6 @@ def second_challenge
           :attitude => "worried"
         }
         ]
-        }
+        },
         }
 end
