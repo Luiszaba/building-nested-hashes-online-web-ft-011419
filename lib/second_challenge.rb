@@ -12,8 +12,18 @@ def second_challenge
       :hero => "Romeo",
       :age => "15"
       },
-      :hero_friends =>
-    
+      :hero_friends => [
+        {
+        :name => "Benvolio",
+        :age => "15",
+        :attitude => "worried"
+        },
+        {
+          :name => "Mercutio",
+          :age => "18",
+          :attitude => "hot-headed"
+        }
+        ]
     },
     :capulet => {
       :patriarch => {
@@ -23,7 +33,15 @@ def second_challenge
       :matriarch => {
         :name => "Lady Capulet",
         :age => "51"
-    },
-    }
+      },
+      :hero => {
+        :name => "Juliet",
+        :age => "15"
+      },
+      :hero_friends = [
+        {
+          :name => 
+        }
+        ]
   }
 end
