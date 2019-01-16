@@ -33,8 +33,9 @@ def first_challenge
      },
      :matriarch => "Lady Capulete",
      :age => "51"
-     
      },
+     :heroine => "Juliet",
+     :age => "15"
      }
    }
 end
