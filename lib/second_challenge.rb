@@ -19,11 +19,11 @@ def second_challenge
         :attitude => "worried"
         },
         {
-          :name => "Mercutio",
-          :age => "18",
-          :attitude => "hot-headed"
+        :name => "Mercutio",
+        :age => "18",
+        :attitude => "hot-headed"
         }
-        ]
+      ]
     },
     :capulet => {
       :patriarch => {
@@ -38,7 +38,7 @@ def second_challenge
         :name => "Juliet",
         :age => "15"
       },
-      :heroine_friends = [
+      :heroine_friends => [
         {
           :name => "Steven",
           :age => "30",
